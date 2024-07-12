@@ -75,7 +75,7 @@ int main()
 	int choice;
 	do
 	{
-		printf("\t\t\t\t\t STUDENT MANAGEMENT SYSTEM\n");
+		printf("\t\t\t\t\t STUDENT MANAGEMENT SYSTEM \n");
 		printf("\t\t\t\t\t\n");
 		printf("\t\t\t\t\t 1.Addd Student\n");
 		printf("\t\t\t\t\t 2.Watch All Student Informations\n");
